@@ -12,9 +12,9 @@ def main():
     horsefly.flight_length()
 
     print("The mosquito can fly: ", mosquito.get_flight(), "miles")
+    print("The horsefly can fly: ", horsefly.get_flight(), "miles")
 
 
-    #print("This is how many miles the insect flies: ", my_insect.flight_length())
-    #print("It flies: ", my_insect.get_flight())
+ 
 
 main()
